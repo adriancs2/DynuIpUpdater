@@ -19,7 +19,7 @@ A lightweight Windows desktop application for automatically updating your [Dynu.
 
 ## Screenshots
 
-*Coming soon*
+![DynuIpUpdater](https://raw.githubusercontent.com/adriancs2/DynuIpUpdater/refs/heads/main/wiki/screenshot.png)
 
 ## Requirements
 
